@@ -1,12 +1,6 @@
-# TuringTech - Backend technical test (Intermediate)
-
-This test is a part of our hiring process for [backend positions](https://www.turingtechnologies.org/careers). It should take you between 2 and 4 hours depending on your experience. We made this task in a way that you'll end up learing how IVRs and Twilio's API works. Working on this task will help you in your future projects.
-
-*Feel free to apply on our [Careers Page](https://www.turing-tech.org/careers?github=true) and email us at hr@turingtechnologies.org.*
-
 ## Summary
 
-The purpose of the test is to reproduce one small feature: __call forwarding__.
+The purpose of this is to reproduce one small feature: __call forwarding__.
 
 Here is the story:
 
@@ -61,10 +55,3 @@ Here are some steps to help you start:
 - [ ] Create the `Call` model in order to store data about calls.
 
 - [ ] Forward incoming calls according to the previous strategies.
-
-
-
-## Code Submit
-Please organize, design, test and document your code as if it were going into production, create a loom video and send us a [pull request](https://opensource.com/article/19/7/create-pull-request-github). 
-
-We will review it and get back to you in order to talk about your code! 
